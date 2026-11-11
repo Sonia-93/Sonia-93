@@ -48,36 +48,11 @@
 
 ---
 
-## 💪 Skills & Technologies
 
-### 💻 Programming Languages
+## 💻 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,html,css" />
-</p>
-
-### ⚙️ Backend Development & Frameworks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-</p>
-
-### 📱 Frontend & Mobile Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,html,css" />
-</p>
-
-### 🗄️ Databases & Data Management
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### 🔧 Development Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,html,css,nodejs,nestjs,spring,react,reactnative,postgres,mysql,mongodb,git,github,vscode,linux,bash,kali,arduino,raspberrypi&perline=8" />
 </p>
 
 ### 🔐 Cybersecurity & Networking
