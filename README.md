@@ -19,20 +19,7 @@
 - 🔐 Passionate about cybersecurity, ethical hacking and network security.
 - 🌱 Constantly learning new technologies and improving my technical skills.
 - 🗄️ Interested in APIs, databases, authentication and secure system architecture.
-- 🚀 I love turning ideas into meaningful technological solutions.
 - 🤝 Open to collaboration, innovation and opportunities to grow.
-
----
-
-## 🌱 Major Areas of Interest
-
-- ⚙️ **Backend Development:** Server-side programming, REST APIs, authentication, database management and system architecture.
-- 🔐 **Cybersecurity:** Ethical hacking, network security, vulnerability assessment, Linux security and secure application development.
-- 🌐 **Software Development:** Designing and developing web and mobile applications.
-- 🗄️ **Database Management:** Database design, SQL, data security and optimization.
-- 🤖 **Artificial Intelligence:** Exploring AI-powered applications and intelligent solutions.
-- 🔌 **Networking & Embedded Systems:** Network configuration, routing, microcontrollers and hardware-software integration.
-
 ---
 
 ## 📊 GitHub Statistics
@@ -61,13 +48,7 @@
   <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
 </p>
 
-**Areas I'm exploring:**
-- Ethical Hacking & Penetration Testing
-- Network Security
-- Vulnerability Assessment
-- Linux Administration
-- Secure Backend Development
-- Network Configuration & Troubleshooting
+
 
 ### 🔌 Embedded Systems & Hardware
 
